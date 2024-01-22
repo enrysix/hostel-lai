@@ -1,0 +1,59 @@
+<template>
+    <div class="container">
+        <h3>
+            Servicios
+        </h3>
+        <p>
+            PRIVACIDAD DE LA CÁPSULA GRACIAS A SU CIERRE
+            INSTALACIONES DE DISEÑO EN TODAS LAS ESTANCIAS
+            CAMBIADORES Y DUCHAS CON CIERRE
+            COCINA EQUIPADA Y MODERNA
+            TAQUILLAS XL CON CIERRE DE SEGURIDAD
+            WIFI 5G DE ALTA VELOCIDAD
+            HABITACIONES TOTALMENTE CLIMATIZADAS
+            DESINFECCIÓN DIARIA DE CÁPSULAS
+            GRAN ESPEJO CON LUZ GRADUABLE
+            VIDEOVIGILANCIA 24 HORAS
+            NUEVOS COLCHONES MÁS ALTOS
+            ROPA DE CAMA INCLUIDA + NÓRDICO
+            TV CON SERIES Y PELÍCULAS
+            PUERTOS USB DE RECARGA
+            MODO NO MOLESTAR EN LA PUERTA
+            TOALLA XL NUEVA CADA 2 DÍAS
+            ENCHUFE 220V INTERNACIONAL
+            ACCESO DIRECTO A YOUTUBE
+            PAR DE LUCES DE LECTURA
+            MÁQUINAS DE SNACKS Y BEBIDAS 24H
+            TARJETA DE ACCESO 24 HORAS
+            CAJA FUERTE PROGRAMABLE
+            CONEXIÓN BLUETOOTH CON LA PANTALLA
+            EXTINTOR Y DETECTORES DE HUMO
+            ACCESO A NETFLIX EN PANTALLA
+            INFO TURÍSTICA PERSONALIZADA
+            GEL BODY & HAIR EN DUCHA
+            BOLSA PROTEGE ZAPATOS OPCIONAL *
+            BOTIQUÍN ACTUALIZADO Y LISTO, TIRITAS *
+            TAPONES REDUCTORES DE RUIDO -25 DB *
+            ANTIFAZ REDUCTOR DE LUCES O BRILLOS *
+            PLANCHA TEXTIL DISPONIBLE *
+            BASTONCILLOS HIGIÉNICOS *
+            TISSUES Y PAÑUELOS *
+            SOBRE QUITAMANCHAS *
+            PASTILLA DE JABÓN *
+            DESODORANTE 10 ML *
+            SOBRE DE PERFUME AIR DE PARIS *
+            PEINE CLÁSICO DE HOTEL VINTAGE *
+            LIMA DE UÑAS *
+            SECADOR DE PELO + DIFUSOR *
+            MAPA DE LA CIUDAD *
+        </p>
+    </div>
+</template>
+
+<script setup lang="ts">
+
+</script>
+
+<style scoped>
+
+</style>
