@@ -3,7 +3,7 @@
         <Menubar
             :model="items"
             :pt="{
-                action: ({ props, state, context }) => ({
+                action: ({ context }) => ({
                     class: context.active ? 'bg-menu-active border-round-sm' : context.focused ? 'bg-menu-active border-round-sm' : undefined
                 })
             }"

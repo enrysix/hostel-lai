@@ -114,12 +114,6 @@ const openFullScreen = () =>{
 const closeFullScreen = () => {
     if (document.exitFullscreen) {
         document.exitFullscreen();
-    } else if (document.mozCancelFullScreen) {
-        document.mozCancelFullScreen();
-    } else if (document.webkitExitFullscreen) {
-        document.webkitExitFullscreen();
-    } else if (document.msExitFullscreen) {
-        document.msExitFullscreen();
     }
 };
 const bindDocumentListeners = () => {
@@ -127,12 +121,6 @@ const bindDocumentListeners = () => {
     document.addEventListener('mozfullscreenchange', onFullScreenChange);
     document.addEventListener('webkitfullscreenchange', onFullScreenChange);
     document.addEventListener('msfullscreenchange', onFullScreenChange);
-};
-const unbindDocumentListeners = () => {
-    document.removeEventListener('fullscreenchange', onFullScreenChange);
-    document.removeEventListener('mozfullscreenchange', onFullScreenChange);
-    document.removeEventListener('webkitfullscreenchange', onFullScreenChange);
-    document.removeEventListener('msfullscreenchange', onFullScreenChange);
 };
 
 const fullScreenIcon = computed(() => {

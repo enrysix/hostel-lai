@@ -47,7 +47,6 @@
 </template>
 
 <script setup lang="ts">
-import Fieldset from 'primevue/fieldset';
 import Accordion from 'primevue/accordion';
 import AccordionTab from 'primevue/accordiontab';
 
