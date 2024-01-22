@@ -14,8 +14,7 @@
     "primeicons": "^6.0.1",
     "primevue": "^3.46.0",
     "vue": "^3.3.4",
-    "vue-router": "^4.2.4",
-    "webpack": "^5.89.0"
+    "vue-router": "^4.2.4"
   },
   "devDependencies": {
     "@types/node": "^20.11.5",
